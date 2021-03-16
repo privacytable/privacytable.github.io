@@ -2,13 +2,13 @@
 
 | ID | Reference | Methodologies/Techniques/Tools |
 | --- | --- | --- |
-| S1 | \cite{yu2002designing} | i* Model; Non-Functional Requirements (NFR) Framework. |
-| S2 | \cite{he2003framework} | Discretionary and Mandatory Access Controls (DAC and MAC); Privacy-Aware Role-Based Access Control (PARBAC); Specific, Measurable, Attainable, Realizable, and Traceable (SMaRT). |
-| S3 | \cite{DBLP:conf/re/LiuYM03} | i* Model; Agent-Based Model; Alloy Language; Agent-Oriented Modeling Framework. |
-| S4 | \cite{jensen2005strap} | Goal-Oriented Approach; STRuctured Analysis for Privacy (STRAP). |
-| S5 | \cite{DBLP:journals/re/SindreO05} | Misuse Case. |
-| S6 | \cite{DBLP:journals/ijseke/MouratidisG07} | i* Model; Secure Tropos; T-Tool |
-| S7 | \cite{DBLP:conf/IEEEares/KalloniatisKG07} | Privacy Safeguard Method (PriS). |
+| S1 | [12] | i* Model; Non-Functional Requirements (NFR) Framework. |
+| S2 | [32] | Discretionary and Mandatory Access Controls (DAC and MAC); Privacy-Aware Role-Based Access Control (PARBAC); Specific, Measurable, Attainable, Realizable, and Traceable (SMaRT). |
+| S3 | [33] | i* Model; Agent-Based Model; Alloy Language; Agent-Oriented Modeling Framework. |
+| S4 | [34] | Goal-Oriented Approach; STRuctured Analysis for Privacy (STRAP). |
+| S5 | [35] | Misuse Case. |
+| S6 | [36] | i* Model; Secure Tropos; T-Tool |
+| S7 | [9] | Privacy Safeguard Method (PriS). |
 | S8 | \cite{DBLP:journals/software/TondelJM08} | Misuse Case; Use Case; NFR Framework. |
 | S9 | \cite{DBLP:conf/apscc/MiyazakiMZ08} | Questionnaire; Use Case; Flow Charts; Development Life Cycle Models and Cost; Privacy Requirements Elicitation Technique (PRET) tool. |
 | S10 | \cite{DBLP:journals/re/KalloniatisKG08} | PriS Conceptual Framework. |
