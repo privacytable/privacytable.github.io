@@ -9,23 +9,23 @@
 | S5 | [35] | Misuse Case. |
 | S6 | [36] | i* Model; Secure Tropos; T-Tool |
 | S7 | [9] | Privacy Safeguard Method (PriS). |
-| S8 | \cite{DBLP:journals/software/TondelJM08} | Misuse Case; Use Case; NFR Framework. |
-| S9 | \cite{DBLP:conf/apscc/MiyazakiMZ08} | Questionnaire; Use Case; Flow Charts; Development Life Cycle Models and Cost; Privacy Requirements Elicitation Technique (PRET) tool. |
-| S10 | \cite{DBLP:journals/re/KalloniatisKG08} | PriS Conceptual Framework. |
-| S11 | \cite{DBLP:conf/mcis/KalloniatisKK09} | Goal Model; Directed Acyclic Graph; PriS tool. |
-| S12 | \cite{bijwe2010adapting} | Goal-Based Requirements Analysis Method (GBRAM); Pattern-Based Approach (PBA); E-Commerce Personalization Approach (ECPA); Use Case; Misuse Case; Attack Trees; User-Role Hierarchies (URH); System Architecture Diagrams (SAD); Interview; Soft Systems Methodology (SSM); Feature-Oriented Domain Analysis (FODA); PRET tool. |
-| S13 | \cite{DBLP:conf/refsq/IslamMW10} | Secure Tropos; Goal Driven Security Risk Management (GSRM). |
-| S14 | \cite{DBLP:journals/re/DengWSPJ11} | Linkability, Identifiability, Non-repudiation, Detectability, Information Disclosure, Content Unawareness and Policy/Consent Noncompliance (LINDDUN); Data Flow Diagrams (DFD); Use Case. |
-| S15 | \cite{DBLP:journals/asc/KalloniatisBG11} | Pris extension. Pris tool |
-| S16 | \cite{DBLP:journals/ijipsi/MeadMZ11} | PRET; Security Quality Requirements Engineering (SQUARE); Misuse case; Soft Systems Methodology (SSM); Quality Function Deployment (QFD); Controlled Requirements Expression (CORE); Issue-Based Information Systems (IBIS); Joint Application Development (JAD); FODA; Critical Discourse Analysis (CDA); Accelerated Requirements Method (ARM); Reusable Legal Requirements; GBRAM; PBA; ECPA; Questionnaire. |
-| S17 | \cite{DBLP:journals/jucs/MouratidisKIHG12} | NFR Framework; i* Model; Secure Tropos; Keep All Objectives Satisfied (KAOS); Goal-Based Requirements Analysis Method (GBRAM); Role Based Access Control (RBAC); Moffett-Nuseibeh (M-N) Framework; STRuctured Analysis for Privacy (STRAP); Privacy Safeguard (PriS). |
-| S18 | \cite{DBLP:conf/IEEEares/Beckers12} | Conceptual Framework (CF) for Security Requirements Engineering; PriS; LINDDUN; Privacy-Friendly System Design from Spiekermann (FPRSD). |
-| S19 | \cite{DBLP:conf/iecon/NeureiterEVE13} | Reliability, Availability, Maintainability and Safety (RAMS); Privacy-RAMS; LINDDUN. |
-| S20 | \cite{DBLP:journals/re/KalloniatisMI13} | Secure Tropos; Pris. |
-| S21 | \cite{DBLP:conf/eisic/AmorimAGA13} | Privacy by Design; Digital Image Analysis (DIA). |
-| S22 | \cite{DBLP:conf/socialcom/RadicsGK13} | Poolsappasit and Ray’s Framework; Sensor-Safe and MAPaS framework; Beckers’ Method; LINDDUN; PriS; Model by Hong; Privacy Requirements Engineering Process (PREPProcess). |
-| S23 | \cite{martin2014engineering} | Privacy by Design; Privacy Enhancing Technology (PET), Pris; i* Model; tools OASIS-Privacy Management Reference Model and Methodology (PMRM). |
-| S24 | \cite{DBLP:journals/re/BreauxHR14} | Survey; Interview; DFD. |
+| S8 | [37] | Misuse Case; Use Case; NFR Framework. |
+| S9 | [14] | Questionnaire; Use Case; Flow Charts; Development Life Cycle Models and Cost; Privacy Requirements Elicitation Technique (PRET) tool. |
+| S10 | [38] | PriS Conceptual Framework. |
+| S11 | [16] | Goal Model; Directed Acyclic Graph; PriS tool. |
+| S12 | [11] | Goal-Based Requirements Analysis Method (GBRAM); Pattern-Based Approach (PBA); E-Commerce Personalization Approach (ECPA); Use Case; Misuse Case; Attack Trees; User-Role Hierarchies (URH); System Architecture Diagrams (SAD); Interview; Soft Systems Methodology (SSM); Feature-Oriented Domain Analysis (FODA); PRET tool. |
+| S13 | [39] | Secure Tropos; Goal Driven Security Risk Management (GSRM). |
+| S14 | [40] | Linkability, Identifiability, Non-repudiation, Detectability, Information Disclosure, Content Unawareness and Policy/Consent Noncompliance (LINDDUN); Data Flow Diagrams (DFD); Use Case. |
+| S15 | [41] | Pris extension. Pris tool |
+| S16 | [42] | PRET; Security Quality Requirements Engineering (SQUARE); Misuse case; Soft Systems Methodology (SSM); Quality Function Deployment (QFD); Controlled Requirements Expression (CORE); Issue-Based Information Systems (IBIS); Joint Application Development (JAD); FODA; Critical Discourse Analysis (CDA); Accelerated Requirements Method (ARM); Reusable Legal Requirements; GBRAM; PBA; ECPA; Questionnaire. |
+| S17 | [43] | NFR Framework; i* Model; Secure Tropos; Keep All Objectives Satisfied (KAOS); Goal-Based Requirements Analysis Method (GBRAM); Role Based Access Control (RBAC); Moffett-Nuseibeh (M-N) Framework; STRuctured Analysis for Privacy (STRAP); Privacy Safeguard (PriS). |
+| S18 | [44] | Conceptual Framework (CF) for Security Requirements Engineering; PriS; LINDDUN; Privacy-Friendly System Design from Spiekermann (FPRSD). |
+| S19 | [30] | Reliability, Availability, Maintainability and Safety (RAMS); Privacy-RAMS; LINDDUN. |
+| S20 | [45] | Secure Tropos; Pris. |
+| S21 | [5] | Privacy by Design; Digital Image Analysis (DIA). |
+| S22 | [46] | Poolsappasit and Ray’s Framework; Sensor-Safe and MAPaS framework; Beckers’ Method; LINDDUN; PriS; Model by Hong; Privacy Requirements Engineering Process (PREPProcess). |
+| S23 | [47] | Privacy by Design; Privacy Enhancing Technology (PET), Pris; i* Model; tools OASIS-Privacy Management Reference Model and Methodology (PMRM). |
+| S24 | [48] | Survey; Interview; DFD. |
 | S25 | \cite{DBLP:conf/icgs3/GanjiMGP15} | NFR Framework; i* Model; Secure Tropos; KAOS; GBRAM; RBAC; M-N Framework, Bellotti-Sellen Framework, STRAP; PriS, Caprice, SecuriTas, Easy Win-Win. |
 | S26 | \cite{DBLP:conf/sp/NotarioCMAMAKKW15} | Goal-Oriented; System Analysis Approach; Privacy by Design. |
 | S27 | \cite{DBLP:conf/re/GharibSPGMPRFS16} | Questionnaire-Based Requirements Elicitation; Scenario Based Requirements Elicitation. |
