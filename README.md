@@ -1,5 +1,7 @@
 ## Primary studies selected from 2000 to 2020
 
+**TABLE I: Primary studies selected from 2000 to 2020**
+
 | ID | Reference | Methodologies/Techniques/Tools |
 | --- | --- | --- |
 | S1 | [12] | i* Model; Non-Functional Requirements (NFR) Framework. |
@@ -75,6 +77,8 @@
 | S71 | [86] | Case Study; GDPR; Chinese Cybersecurity Act; DFD. |
 | S72 | [87] | Questionnaire; STS-Tool; Secure Tropos. |
 | S73 | [88] | Use case; GDPR. |
+
+
 
 ## References
 
